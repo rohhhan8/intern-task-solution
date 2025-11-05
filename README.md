@@ -6,7 +6,7 @@ This project contains a JavaScript function that takes a series of date-stamped 
 
 Given a set of data points, like `{'2020-01-01': 4, '2020-01-04': 10}`, the goal is to produce a full week's worth of data. The output should sum the values for each day of the week and estimate the values for any missing days.
 
-## Our Approach
+## My Approach
 
 The solution handles this in three main steps:
 
